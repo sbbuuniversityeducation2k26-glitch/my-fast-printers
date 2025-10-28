@@ -1,0 +1,43 @@
+/* This is style.css — your design file */
+body {
+    background-color: lightblue;
+    color: darkblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: navy;
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+/* This is your CSS file */
+
+body {
+    background-color: lightblue;  /* Page background color */
+    color: darkblue;              /* Text color */
+    font-family: Arial, sans-serif; /* Font style */
+    text-align: center;           /* Center all text */
+}
+
+h1 {
+    color: navy;                  /* Heading color */
+    font-size: 40px;              /* Heading size */
+}
+
+p {
+    font-size: 20px;              /* Paragraph size */
+}
+button {
+    background-color: navy;
+    color: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
